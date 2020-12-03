@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'Fin-Display';
+  src: url('../fonts/fin/FinSerifDisplay-Regular.woff2') format('woff2'),
+	   url('../fonts/FinSerifDisplay-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Fin-Display';
+  src: url('../fonts/fin/FinSerifDisplay-Italic.woff2') format('woff2'),
+	   url('../fonts/fin/FinSerifDisplay-Italic.woff') format('woff');
+  font-weight: normal;
+  font-style: italic;
+
+}
